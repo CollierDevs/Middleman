@@ -26,7 +26,7 @@
     "filesize": "^6.4.0",
     "hat": "^0.0.3",
     "kaori": "^2.0.4",
-    "lowdb": "^1.0.0",
+    "lowdb": "^2.1.0",
     "mariadb": "^2.5.4",
     "path": "^0.12.7",
     "remote-file-size": "^3.0.5",
